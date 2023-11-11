@@ -6,7 +6,8 @@
       "type2": "Poison",
       "japanese Name": "Fushigibana",
       "evolution": "Venusaur evolves from Ivysaur at level 32. It can mega evolve into Mega Venusaur using the Venusaurite.",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png"
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png",
+      "id": 1
     },
     {
       "name": "Charizard",
@@ -14,7 +15,8 @@
       "type2": "Flying",
       "japanese Name": "Lizardon",
       "evolution": "Charizard evolves from Charmeleon starting at level 36. It is the final form of Charmander.",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png"
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png",
+      "id": 2
     },
     {
       "name": "Butterfree",
@@ -22,7 +24,8 @@
       "type2": "Flying",
       "japanese Name": "Butterfree",
       "evolution": "Butterfree evolves from Metapod at level 10 and is the final evolution of Caterpie.",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b8/012.png"
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b8/012.png",
+      "id": 3
     },
     {
       "name": "Beedrill",
@@ -30,7 +33,8 @@
       "type2": "Poison",
       "japanese Name": "Spear",
       "evolution": "Beedrill is the final evolution of Weedle and evolves from Kakuna at level 10. Beedrill gains a Mega Evolution in Omega Ruby and Alpha Sapphire.",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/5e/015.png"
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/5e/015.png",
+      "id": 4
     },
     {
       "name": "Fearow",
@@ -38,7 +42,8 @@
       "type2": "Flying",
       "japanese Name": "Onidrill",
       "evolution": "Fearow evolves from Spearow at level 20.",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/27/022.png"
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/27/022.png",
+      "id": 5
     },
     {
       "name": "Nidoqueen",
@@ -46,7 +51,8 @@
       "type2": "Ground",
       "japanese Name": "Nidoqueen",
       "evolution": "Nidoqueen is the evolved form of a Nidorina by use of a Moon Stone, and is the final form of a Nidoran.",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/61/031.png"
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/61/031.png",
+      "id": 6
     },
     {
       "name": "Venomoth",
@@ -54,7 +60,8 @@
       "type2": "Poison",
       "japanese Name": "Morphon",
       "tvolution": "Venomoth is the evolved form of Venonat as of level 31.",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c9/049.png"
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c9/049.png",
+      "id": 7
     },
     {
       "name": "Wigglypuff",
@@ -62,7 +69,8 @@
       "type2": "Fairy",
       "japanese Name": "Pukurin",
       "evolution": "Wigglytuff is the evolved form of Jigglypuff by the use of a Moon Stone. Wigglytuff is the final form of Igglybuff.",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9c/040.png"
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9c/040.png",
+      "id": 8
     },
     {
       "name": "Jynx",
@@ -70,7 +78,8 @@
       "type2": "Phychic",
       "japanese Name": "Rougela",
       "evolution": "Jynx is the evolved form of Smoochum as of level 30.",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/a8/124.png"
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/a8/124.png",
+      "id": 9
     }
   ]
 }
