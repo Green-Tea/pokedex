@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "id": 100001,
+      "isbn": 34534181233,
+      "title": "CSS for fun",
+      "condition": "Like New",
+      "published": "Feb 2, 2020",
+      "price": 400,
+      "freeShipping": true
+    },
+    {
+      "id": 100002,
+      "isbn": 87934181233,
+      "title": "JavaScript for Developers",
+      "condition": "OK",
+      "published": "Mar 3, 2020",
+      "price": 100,
+      "freeShipping": false
+    },
+    {
+      "id": 100003,
+      "isbn": 71934181233,
+      "title": "HTML5",
+      "condition": "Like New",
+      "published": "April 1, 2020",
+      "price": 200,
+      "freeShipping": true
+    }
+  ]
+}
