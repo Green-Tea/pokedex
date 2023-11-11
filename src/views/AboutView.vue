@@ -1,6 +1,8 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Mini pokedex webpage</h1>
+    <br />
+    <p>Learn about pokemon types and evolutions</p>
   </div>
 </template>
 
