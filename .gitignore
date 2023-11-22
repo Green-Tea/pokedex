@@ -30,3 +30,4 @@ coverage
 
 .prettierrc.json
 .eslintrc.cjs
+package-lock.json
